@@ -32,3 +32,8 @@ Pickle (for tokenizer/model)
   <img src="https://raw.githubusercontent.com/Riitwiik/Simple-RNN-model/refs/heads/main/Negative.png" width="45%"/>
   <img src="https://raw.githubusercontent.com/Riitwiik/Simple-RNN-model/refs/heads/main/Positive.png" width="45%"/>
 </p>
+
+## 🛡️ Regularization Techniques
+
+- **Dropout**: Randomly drops neurons during training to prevent over-reliance on specific features.
+- **L2 Regularization**: Penalizes large weights to reduce model complexity and improve generalization.
