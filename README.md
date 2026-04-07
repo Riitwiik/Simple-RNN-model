@@ -26,6 +26,11 @@ Streamlit
 NumPy
 Pickle (for tokenizer/model)
 
+## 🚀 Live Demo
+
+This project is deployed and accessible online:
+https://rnn-basic.streamlit.app/
+
 ## 🖥️ Screenshots
 
 <p align="center">
