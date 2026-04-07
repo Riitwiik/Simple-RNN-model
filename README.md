@@ -29,6 +29,6 @@ Pickle (for tokenizer/model)
 ## 🖥️ Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/screenshots/positive.png" width="45%"/>
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/screenshots/negative.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/Riitwiik/Simple-RNN-model/refs/heads/main/Negative.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/Riitwiik/Simple-RNN-model/refs/heads/main/Positive.png" width="45%"/>
 </p>
